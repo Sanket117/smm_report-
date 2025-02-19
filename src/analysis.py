@@ -40,9 +40,9 @@ def main():
         'src/input_analysis/renamebranding.py',
         'src/input_analysis/path.py',
         'src/input_analysis/feedback.py',
-        'src/templates/brand.py',
-        'src/templates/content.py',
-        'src/templates/social.py',
+        'src/brand.py',
+        'src/content.py',
+        'src/social.py',
         'src/Report/updated1.py',
         'src/Report/Report.py'
     ]
