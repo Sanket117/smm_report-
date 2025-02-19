@@ -1,0 +1,40 @@
+{
+    "Image Analyses": [
+        {
+            "Image": "data/competitor/image1.jpeg",
+            "Analysis": {
+                "Raw Response": "Error with the API request."
+            }
+        },
+        {
+            "Image": "data/competitor/image2.jpeg",
+            "Analysis": {
+                "Raw Response": "Error with the API request."
+            }
+        },
+        {
+            "Image": "data/competitor/image3.jpeg",
+            "Analysis": {
+                "Raw Response": "Error with the API request."
+            }
+        },
+        {
+            "Image": "data/competitor/image4.jpeg",
+            "Analysis": {
+                "Raw Response": "Error with the API request."
+            }
+        },
+        {
+            "Image": "data/competitor/image5.jpeg",
+            "Analysis": {
+                "Raw Response": "Error with the API request."
+            }
+        },
+        {
+            "Image": "data/competitor/image6.jpeg",
+            "Analysis": {
+                "Raw Response": "Error with the API request."
+            }
+        }
+    ]
+}
